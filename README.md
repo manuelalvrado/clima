@@ -1,3 +1,6 @@
 # Sitio Web del clima
 
-El proyecto se encuentra listo para empezar.
+Para leer la documentación visite [Traducción.md][traduccion]
+
+[traduccion]:docs/Traducción.md "Ver la versión traducida de la documentación original"
+
