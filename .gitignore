@@ -1,5 +1,4 @@
 Herramientas
-*/*.md
 .sass-cache
 .vscode
 *.sql
