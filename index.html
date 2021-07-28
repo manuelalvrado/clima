@@ -25,13 +25,21 @@
   <!-- Estilos -->
   <link rel="stylesheet" href="styles/css/style.css" />
 </head>
-<body>
+<body onload="onLoad()">
   <main id="app">
     <!-- Escriba a aquí su código -->
     <h2>Proyecto del clima</h2>
-    
+    <div id="container"> 
+		<div id="location"></div>
+		<div id="description"></div>
+		<div id="humidity"></div>
+		<div id="pressure"></div>
+		<div id="temperature"></div>
+		<div id="date"></div>
+	</div>
   </main>
 
-  <script src="sources/js/main.js" type="module"></script>
+  
 </body>
+<script src="sources/js/main.js"></script>
 </html>
